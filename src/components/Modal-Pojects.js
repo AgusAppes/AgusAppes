@@ -38,21 +38,21 @@ const ModalProjects = ({ show, close, title }) => {
                             <a href="https://65ce34e5b4ffcc05d555ffe3--lighthearted-pasca-e0b012.netlify.app/" target="blanck"><img src={Color} alt="Color" /></a>
                             <div className="card" id="description">
                                 <h1>ADIVINA EL COLOR</h1>
-                                <p>Juego que consiste en ver un color en formato RGB y seleccionar la opción correcta</p>
+                                <p>Presenta una interfaz donde se muestra un color en formato RGB y se ofrece una selección de opciones. Los jugadores deben elegir la opción correcta para ganar. El juego cuenta con modos de dificultad.</p>
                             </div>
                         </div>
                         <div id="project">
                             <a href="https://instapetlover.netlify.app/" target="blanck"><img src={Instapet} alt="Instapet" /></a>
                             <div className="card" id="description">
                                 <h1>INSTAPET</h1>
-                                <p>Maquetado de login de una red social para mascotas</p>
+                                <p>Interfaz que simula el registro de usuario a una red social para mascotas.</p>
                             </div>
                         </div>
                         <div id="project">
                             <a href="https://stellular-caramel-3baaa5.netlify.app/" target="blanck"><img src={PPT} alt="PPT" /></a>
                             <div className="card" id="description">
                                 <h1>PIEDRA PAPEL O TIJERA</h1>
-                                <p>El clasico juego de la infancia en versión digital, el jugador se enfrentará a la computadora la cual elegirá una opción al azar</p>
+                                <p>Adaptación digital del clásico juego de la infancia en versión digital, el jugador se enfrentará a la computadora la cual elegirá una opción al azar.</p>
                             </div>
                         </div>
                         <div id="project">

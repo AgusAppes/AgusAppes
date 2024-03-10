@@ -42,7 +42,7 @@ function Aboutme() {
                     <div>
                         <p>
                             Mi nombre es Agustina Appes, me dedico al desarrollo de páginas web. Aunque me especializo en el diseño de interfaces,
-                            también tengo conocimientos en desarrollo backend. Te invito a explorar mi portfolio y conocer más sobre mí.
+                            también tengo experiencia en desarrollo backend. Te invito a explorar mi portfolio y conocer más sobre mí.
                         </p>
                     </div>
                 </div>
