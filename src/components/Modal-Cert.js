@@ -7,6 +7,7 @@ import Ex from "../images/excel.png";
 import Vlopez from "../images/frontvlopez.png";
 import IntProg from "../images/intprog.png";
 import Marketing from "../images/Marketing.png";
+import DG from "../images/Certificado-Fundamentos-del-Diseño-Gráfico-EducaciónIT.png";
 
 const ModalCert = ({ show, close, title }) => {
     const modalClasses = show ? "modal" : "modal hide";
@@ -38,10 +39,13 @@ const ModalCert = ({ show, close, title }) => {
                                 <img id="certi" src={Vlopez} alt="Frontend" />
                             </div>
                             <div id="project">
-                                <img id="certi" src={IntProg} alt="IntProg" />
+                                <img id="certi" src={IntProg} alt="Introducción a la programación" />
                             </div>
                             <div id="project">
                                 <img id="certi" src={Marketing} alt="Marketing" />
+                            </div>
+                            <div id="project">
+                            <img id="certi" src={DG} alt="Diseño Grafico" />
                             </div>
                     </Slider>
                     <div className="modal-background">
